@@ -1,4 +1,5 @@
-Olá, sou Tiago Fernandes
-Estou interessado em trabalhar como programador front-end. Atualmente trabalhando e estudando html, css e javascript, desenvolvendo e-commerce.
+Olá, sou Tiago Fernandes.
+Desenvolvedor Web pela Diwe, e freelance nas horas vagas.
+Tendo como atuação, desenvolvimentos de Web sites responsivos, Landing Pages, RD Station, Wordpress e Woocommerce. Skills em HTML, CSS, SASS e Javascript.
 
 
